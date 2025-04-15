@@ -1,0 +1,7 @@
+This is an example of a TXT file.
+
+You can write anything here: notes, data, instructions, or a to-do list.
+
+- Remember to call Sarah
+- Finish the CSS project
+- Buy coffee
